@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Wladimiro de Carvalho</h1>
-<h3 align="center">Um desenvolvedor apaixonado por tecnologia</h3>
+<h3 align="center">Um desenvolvedor apaixonado por tecnologia, sobretudo desenvolvimento e design, seja bem vindo ao meu perfil, e sinta-se livre para questionar sobre qualquer coisa actravés dos contactos aqui expostos.</h3>
 
 - 📫 Fale comigo **wladimirooliveira@gmail.com**
 
